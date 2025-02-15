@@ -66,7 +66,7 @@ To run this project, you will need the following installed on your system:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/drisskhattabi6/Real-Time-Twitter-Sentiment-Analysis.git
+   https://github.com/Avnish-1410/Real_Time_Sentiment_Analysis.git
    cd Real-Time-Twitter-Sentiment-Analysis
    ```
    
